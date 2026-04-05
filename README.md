@@ -9,3 +9,4 @@ contract SizeChecker {
         else return "Small";
     }
 }
+Add examples for Solidity practice
