@@ -10,3 +10,4 @@ contract SizeChecker {
     }
 }
 Add examples for Solidity practice
+Add basic error message
