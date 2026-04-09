@@ -13,3 +13,4 @@ Add examples for Solidity practice
 Add basic error message
 Fix minor issue
 Final code cleanup 
+Initial commit
