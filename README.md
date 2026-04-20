@@ -14,3 +14,4 @@ Add basic error message
 Fix minor issue
 Final code cleanup 
 Initial commit
+Add event logging
