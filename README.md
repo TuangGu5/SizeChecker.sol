@@ -15,3 +15,4 @@ Fix minor issue
 Final code cleanup 
 Initial commit
 Add event logging
+Fix incorrect return
